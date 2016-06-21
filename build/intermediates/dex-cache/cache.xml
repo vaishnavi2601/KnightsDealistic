@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\classes-d468a3b8167364b22f4a2055ad46d9abf311f833.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\mail-5135df8cf550f1dd1d3b1690ee790aea31d8b1b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\additionnal-cc44ceab820d5514766256c42f26563705abc71b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\activation-12494abb4cb4f573e800183c6a733dd979b94b92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\classes-deee7140adc934fc73e30c11b57906bbdc1cea11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\classes-925b3b50c124316fb6844a5809410c235eff41c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-052f442de1d425b00495c2e2331c7919fb0d763d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swathi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Swathi\AndroidStudioProjects\KnightsDealistic\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f4e1ebb3248daf9930cc2894d2c3c0495d4277e9.jar" />
+    </item>
+
+</items>
